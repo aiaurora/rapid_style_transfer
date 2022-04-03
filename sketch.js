@@ -5,7 +5,7 @@ Fast Style Transfer Simple Demo
 */
 
 let nets = {};
-let modelNames = ['la_muse', 'rain_princess', 'udnie', 'wreck', 'scream', 'wave', 'mathura', 'fuchun', 'zhangdaqian', 'starrynight'];
+let modelNames = ['la_muse', 'rain_princess', 'udnie', 'wreck', 'scream', 'wave', 'mathura', 'fuchun', 'zhangdaqian', 'matilde_perez', 'matta', 'starrynight'];
 let inputImg, styleImg;
 let outputImgData;
 let outputImg;
